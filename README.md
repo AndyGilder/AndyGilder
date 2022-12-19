@@ -1,4 +1,4 @@
-- Hi, I’m @AndyGilder
+- Hi, I’m Andy
 - I'm primarily a front-end web developer with a fair bit of back-end knowledge
 - In my career so far, I've worked as a:
   - SQL Server database admin;
